@@ -1,6 +1,6 @@
 {
   "name": "cross-spawn-async",
-  "version": "2.1.8",
+  "version": "2.2.1",
   "description": "Cross platform child_process#spawn",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "expect.js": "^0.3.0",
-    "glob": "^6.0.3",
+    "glob": "^7.0.0",
     "mkdirp": "^0.5.1",
     "mocha": "^2.2.5",
     "rimraf": "^2.5.0"
